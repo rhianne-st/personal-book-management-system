@@ -1,5 +1,5 @@
 # 📚 Personal Book Management System
-This is a simple book management system using basic Python as a first-ever coding assignment. No GUIs or databases are implemented; outputs are in the terminal, with the book records saved in a .txt file.
+This is a simple book management system using basic Python as a first-ever coding assignment, created by a group of 5 members. No GUIs or databases are implemented; outputs are in the terminal, with the book records saved in a .txt file.
 <br>TO NOTE: This project is built for a *Programming Principles* course assignment on **Visual Studio Code**.
 
 ## Program Functionalities
@@ -21,7 +21,7 @@ This is a simple book management system using basic Python as a first-ever codin
 - Error handling and data validation
 
 ## Folder Structure
-Personal-Book-Management-System/
+personal-book-management-system/
 <br>├── main.py # Complete code file
 <br>├── book_catalogue.txt # Text files as database
 <br>├── .gitignore
