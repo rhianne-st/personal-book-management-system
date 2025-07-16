@@ -22,8 +22,8 @@ This is a simple book management system using basic Python as a first-ever codin
 
 ## Folder Structure
 personal-book-management-system/
-<br>├── main.py # Complete code file
-<br>├── book_catalogue.txt # Text files as database
+<br>├── main.py             # Complete code file
+<br>├── book_catalogue.txt  # Text files as database
 <br>├── .gitignore
 <br>├── LICENSE
 <br>└── README.md
