@@ -21,12 +21,23 @@ This is a simple book management system using basic Python as a first-ever codin
 - Error handling and data validation
 
 ## Folder Structure
-(to be added)
+Personal-Book-Management-System/
+<br>├── main.py # Complete code file
+<br>├── book_catalogue.txt # Text files as database
+<br>├── .gitignore
+<br>├── LICENSE
+<br>└── README.md
 
 ## How to Run?
 1. Clone or download the repository.
 2. Open the project your preferred IDE.
-3. (to be continued)
+3. Ensure the `books_catalogue.txt` file is in the correct directory relative to your source code.
+4. Run `main.py`.
+
+## Limitations & Further Notes
+- As this is a first coding project, all codes are written in a single file.
+- File I/O may need improvement.
+- The `books_catalogue.txt` file is an example consisting of 20 books, with details separated by a semicolon (;). This can be edited based on your personal needs.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
