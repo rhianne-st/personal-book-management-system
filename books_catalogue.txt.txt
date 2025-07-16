@@ -1,0 +1,25 @@
+9781542021470; Barbara Davis; The Keeper of Happy Endings; Lake Union; Fiction; 2021; 03-03-2023; read
+9781785785719; Yasha Levine; Surveillance Valley; Icon Books; Politics; 2019; 02-01-2020; read
+9780241976630; John Maeda; How to Speak Machine; Portfolio UK; Artificial Intelligence; 2019; 02-01-2020; to-read
+9781119055808; Andre De Vries; R For Dummies; John Wiley; Programming; 2015; 12-08-2016; read
+9780062018205; Dan Ariely; Predictably Irrational; Harper Collins; Psychology; 2010; 03-06-2019; read
+9780008327613; John Walsh; The Globalist; Harper Collins; Biography & Autobiography; 2019; 11-05-2021; to-read
+9780525538349; John Doerr; Measure What Matters; Penguin LCC; Management; 2018; 21-09-2022; to-read
+9780807092156; Viktor Frankl; Man's Search for Meaning; Random House; Philosophy; 2019; 30-08-2021; to-read
+9781119913771; John Paul Mueller; Beginning Programming with Python For Dummies; For Dummies; Programming; 2023; 22-03-2023; to-read
+9781119700296; Adam Cash; Psychology For Dummies; For Dummies; Psychology; 2021; 04-12-2022; read
+9781260262582; Charles Hill; International Business: Competing in the Global Marketplace; McGraw-Hill; Business; 2020; 13-10-2021; read
+9781492072584; Ian Darwin; Java Cookbook: Problems and Solutions for Java Developers; O'Reilly Media; Programming; 2020; 29-12-2021; to-read
+9781985635487; Tommy Baker; The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams; Archangel Ink; Self-Love; 2018; 13-01-2023; read
+9781616958473; Samira Ahmed; Love, Hate and Other Filters; Soho Teen; Fiction; 2019; 08-08-2020; read
+9780789754516; Michael Miller; Computer Basics Absolute Beginner's Guide: Windows 10 Edition; Que Pub; Computers; 2015; 04-05-2015; read
+9781541600898; Macaela MacKenzie; Money, Power, Respect: How Women in Sports Are Shaping the Future of Feminism; Seal Press; Sports; 2023; 23-08-2023; to-read
+9781728277776; B. Celeste; Dare You to Hate Me: A College Sports Romance; Bloom Books; Fiction; 2023; 08-05-2023; read
+9780465098859; Carrie Jenkins; What Love Is: And What It Could Be; Basic Books; Philosophy; 2017; 18-02-2020; read
+9780133985078; Tony Gaddis; Starting Out with Programming Logic and Design; Pearson; Programming; 2015; 04-06-2021; read
+9780062420718; Roxane Gay; Hunger: A Memoir of (My) Body; Harper Perennial; Non-fiction; 2017; 04-10-2023; to-read
+9781538742570; Freida McFadden; The Housemaid; Grand Central; Fiction; 2022; 08-11-2023; to-read
+9781542040242; Anne Frasier; The Body Keeper; Thomas & Mercer; Mystery; 2019; 24-02-2022; to-read
+9780374201234; Kobe Bryant; The Mamba Mentality: How I Play; MCD; Sports; 2018; 17-08-2020; read
+9781788171823; Vex King; Good Vibes, Good Life: How Self-Love Is the Key to Unlocking Your Greatness; Hay House UK; Self-Love; 2018; 11-10-2023; to-read
+9781465482211; DK; Beginner's Step-by-Step Coding Course: Learn Computer Programming the Easy Way; DK; Programming; 2020; 18-07-2022; read
